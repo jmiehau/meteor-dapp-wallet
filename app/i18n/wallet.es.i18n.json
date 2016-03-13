@@ -1,10 +1,10 @@
 {
     "elements": {
         "selectGasPrice": {
-            "high": "Faster",
-            "low": "Cheaper"
+            "high": "Más rápido",
+            "low": "Más barato"
         },
-        "checksumAlert":"This address looks valid, but it doesn't have some security features that will protect you against typos, so double check you have the right one. If provided, check if the security icon matches.",
+        "checksumAlert":"Esta dirección parece válida, pero no tiene algunas características de seguridad que te protegeran de erratas, chequea una segunda vez que es la dirección correcta. Si está disponible, chequea si el icono de seguridad coincide.",
         "identiconHelper": "This is a security icon, if there's any change on the address the resulting icon should be a completelly different one"
     },
     "wallet": {
