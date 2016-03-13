@@ -1,0 +1,33 @@
+{
+    "app": {
+        "loading": "Cargando...",
+        "offline": "No se puede conectar. ¿Estas desconectado?",
+        "logginIn": "Iniciando sesión..."
+    },
+    "error": {
+        "insufficientRights": "No tienes suficientes derechos para esta acción."
+    },
+    "buttons": {
+        "ok": "OK",
+        "cancel": "Cancelar",
+        "save": "Guardar",
+        "edit": "Editar",
+        "send": "Enviar",
+        "sending": "Enviando...",
+        "create": "Crea",
+        "select": "Selecciona",
+        "tryToReconnect": "Intentando reconectar"
+    },
+    "commonWords": {
+        "you": "Tu",
+        "send": "enviar",
+        "or": "o",
+        "of": "de",
+        "with": "con",
+        "and": "u",
+        "on": "a",
+        "per": "por",
+        "total":"total",
+        "at": "de"
+    }
+}
